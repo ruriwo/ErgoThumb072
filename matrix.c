@@ -1,27 +1,3 @@
-/* RURIWO
-Update
- 2016/12/11
-<Matrix> ErgoThumb072
- *Cols(Input, Pull-up):0-7
-  0: PB0
-  1: PB1
-  2: PB2
-  3: PB3
-  4: PB4
-  5: PB5
-  6: PB6
-  7: PB7
- *Rows(Output, Active-Low):0-8
-  0: PC7
-  1: PC2
-  2: PD6
-  3: PD0
-  4: PD5
-  5: PD1
-  6: PD4
-  7: PD2
-  8: PD3
-*/
 /*
 Copyright 2012 Jun Wako <wakojun@gmail.com>
 

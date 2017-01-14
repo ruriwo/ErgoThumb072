@@ -1,8 +1,3 @@
-/* RURIWO
-Update
- 2016/12/11
-  *Cmment out Line.30-39. For Disable the led blink.
-*/
 /*
 Copyright 2012 Jun Wako <wakojun@gmail.com>
 

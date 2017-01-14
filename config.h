@@ -1,10 +1,3 @@
-/* RURIWO
-Update
- 2016/12/11
-  * Change L.31-34 to ruriwo, ErgoThumb072, TMK keyboard firmware for ErgoThumb072
-  * Change L.38 MATRIX_ROW 8 to 9. Ergodox072 has 8 rows with the Matrix.
-  * 
-*/
 /*
 Copyright 2015 Jun Wako <wakojun@gmail.com>
 
