@@ -1,6 +1,9 @@
 # ErgoThumb072_firmware
-This is a firmware for ErgoThumb072 project based on tmk/tmk_keyboard.  
-We appreciate for [tmk's great work].
+This is a firmware based on [TMK Keyboard Firmware Collection] for our ErgoThumb072 keyboard project.  
+We appreciate for [tmk]'s great work.
+
+[TMK Keyboard Firmware Collection]: https://github.com/tmk/tmk_keyboard
+[tmk]: https://github.com/tmk/
 
 [tmk's great work]: https://github.com/tmk/tmk_core
 
