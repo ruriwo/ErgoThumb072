@@ -20,6 +20,9 @@ See [here](https://github.com/tmk/tmk_keyboard/).
 MCU : atmega32u2  
 Switch : 72keys  
 Connector : micro USB B
+### Layout
+Users can modify the key assign by the firmware.  
+![blank](./doc/keyboard-layout_blank.jpg) 
 
 ## License
 **GPLv2** or later. Some protocol files are under Modified BSD License.  
